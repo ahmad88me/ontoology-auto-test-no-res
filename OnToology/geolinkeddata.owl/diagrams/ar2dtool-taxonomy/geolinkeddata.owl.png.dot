@@ -1,7 +1,7 @@
 digraph ar2dtool_diagram { 
 rankdir=LR;
 size="1000"
-node [shape = rectangle, color="black"]; "geoes:Provincia" "geoes:Municipio" "geoes:Capital" "geoes:ComunidadAutonoma" "geoes:Pais" "geopolitical:territory" "geoes:Aerodromo" "owl:Thing" "geoes:Aeropuerto" "geoes:Estero" "geoes:ZonaContigua" "geoes:Caz" "geoes:Lavajo" "3358354e:180663165b3:-7d8d" "3358354e:180663165b3:-7df1" "3358354e:180663165b3:-7d01" "geoes:Morfologia" "3358354e:180663165b3:-7cda" "3358354e:180663165b3:-7d78" "geoes:Torrente" "geoes:MasaDeAguaArtificial" "geoes:Estuario" "3358354e:180663165b3:-7d68" "geoes:LlanuraDeInundacion" "3358354e:180663165b3:-7dd9" "geoes:Riachuelo" "geoes:Canyo" "geoes:Guadi" "geoes:Acuifero" "geoes:Nevero" "geoes:FuenteArtificial" "geoes:Azarbe" "geoes:Mar" "3358354e:180663165b3:-7d32" "3358354e:180663165b3:-7dde" "geoes:Canal" "geoes:Arroyo" "3358354e:180663165b3:-7d37" "geoes:Rio" "geoes:Estanque" "geoes:Recinto" "geoes:FuenteNatural" "geoes:Saladar" "3358354e:180663165b3:-7d41" "geoes:ZonaEconomicaExclusiva" "geoes:FuenteSalada" "geoes:FenomenoHidrografico" "geoes:Barranquillo" "geoes:LagoSubterraneo" "geoes:CanalAguasContinentales" "geoes:Aluvion" "geoes:Acequia" "geoes:AltaMar" "geoes:Terma" "geoes:Pozo" "geoes:Canyada" "geoes:AguasCorrientes" "3358354e:180663165b3:-7db5" "geoes:Garganta" "geoes:ManantialSalado" "geoes:Delta" "geoes:Humedal" "geoes:Charca" "geoes:Marjal" "geoes:Cienaga" "geoes:LagoSalado" "geoes:Tuberia" "geoes:IslaFluvial" "geoes:Poza" "geoes:Lago" "geoes:AguasSubterraneas" "geoes:Dren" "3358354e:180663165b3:-7df8" "geoes:Captacion" "geoes:Chorrera" "geoes:Ibon" "geoes:Nacimiento" "geoes:AguasCosteras" "geoes:HidronimoPuntual" "geoes:Albufera" "geoes:LagunaArtificial" "geoes:Colector" "geoes:Reguero" "geoes:Sifon" "geoes:Oceano" "geoes:CanalDeLago" "geoes:AguasQuietas" "geoes:ZonaHumeda" "geoes:AguasMarinas" "geoes:ZonaEncharcable" "geoes:PlayaFluvial" "geoes:Rivera" "geoes:Basines" "3358354e:180663165b3:-7c7b" "3358354e:180663165b3:-7e16" "geoes:Ribera" "3358354e:180663165b3:-7d49" "geoes:Embalse" "geoes:Marisma" "geoes:Ojo" "geoes:AguasSuperficiales" "geoes:Acuitardo" "geoes:Toma" "geoes:Manantial" "geoes:Piscina" "geoes:Desembocadura" "geoes:Cascada" "geoes:Regajo" "geoes:Rapido" "geoes:CapaDeNieve" "geoes:Corriente" "geoes:EstanqueSalado" "geoes:Tremedal" "geoes:Deposito" "geoes:AguasCorrientesArtificiales" "geoes:Canalillo" "geoes:SurgenciaNatural" "geoes:SurgenciaArtificial" "geoes:Galacho" "geoes:Bodon" "geoes:MarTerritorial" "geoes:Confluencia" "3358354e:180663165b3:-7cb5" "geoes:CanalAguasMarinas" "geoes:Riacho" "geoes:Madre" "geoes:Distribucion" "geoes:Playa" "geoes:BalsaDeHielo" "geoes:BancoDeNieve" "geoes:Conducto" "3358354e:180663165b3:-7c6c" "3358354e:180663165b3:-7d3c" "geoes:CapaDeHielo" "geoes:AguasCorrientesNaturales" "geoes:Paul" "geoes:Chortal" "geoes:Desague" "3358354e:180663165b3:-7e23" "geoes:CorrienteSubterranea" "geoes:Sumidero" "geoes:Balsa" "geoes:Vertiente" "geoes:Abrevadero" "geoes:Aljibe" "geoes:AguasQuietasNaturales" "geoes:Fuente" "geoes:Meandro" "geoes:AguasDeTransicion" "geoes:Barranco" "geoes:MasaDeHielo" "geoes:Drenaje" "geoes:Vado" "geoes:Alberca" "geoes:Salina" "geoes:AguasSaladas" "geoes:Surgencia" "geoes:Gotera" "geoes:Ria" "3358354e:180663165b3:-7cfa" "3358354e:180663165b3:-7d9f" "geoes:Aguazal" "geoes:AguasContinentales" "3358354e:180663165b3:-7d86" "geoes:FuenteVauclusiana" "geoes:Lucio" "geoes:Laguna" "geoes:Aguas" "geoes:Efluente" "geoes:Ramal" "geoes:LagunaSalada" "geoes:AguasQuietasArtificiales" "geoes:Geiser" "geoes:FuenteArtesana" "geoes:Venaje" "geoes:Shuga" "geoes:Reguera" "3358354e:180663165b3:-7d99" "geoes:Regato" "geoes:Brazo" "geoes:Nava" "geoes:Rambla" "foaf:Organization" "time:DurationDescription" "wgs84_pos:SpatialThing" "scovo:Dimension" "http://geo.linkeddata.es/ontology/Organizaci%C3%B3n" "http://geo.linkeddata.es/ontology/A%C3%B1o" "geopolitical:area" "time:GeneralDateTimeDescription" "time:DateTimeInterval" "time:TemporalDuration" "time:Duration" "time:GeneralDurationDescription" "time:January" "time:ProperInterval" "time:TimePosition" "time:TemporalPosition" "time:Interval" "time:TemporalEntity" "time:Year" "time:MonthOfYear" "889841c1d902fff65bcaa3948f500427" "time:DateTimeDescription" "time:TemporalUnit" "time:Instant" "time:DayOfWeek" ; /*classes style*/
+node [shape = rectangle, color="black"]; "geoes:Provincia" "geoes:Municipio" "geoes:Capital" "geoes:ComunidadAutonoma" "geoes:Pais" "geopolitical:territory" "geoes:Aerodromo" "owl:Thing" "geoes:Aeropuerto" "geoes:Estero" "geoes:ZonaContigua" "geoes:Caz" "-1d50d6fb:180664a6fdd:-7cfa" "geoes:Lavajo" "geoes:Morfologia" "-1d50d6fb:180664a6fdd:-7d01" "geoes:Torrente" "-1d50d6fb:180664a6fdd:-7d78" "geoes:MasaDeAguaArtificial" "geoes:Estuario" "geoes:LlanuraDeInundacion" "geoes:Riachuelo" "-1d50d6fb:180664a6fdd:-7c7b" "geoes:Canyo" "geoes:Guadi" "geoes:Acuifero" "geoes:Nevero" "geoes:FuenteArtificial" "geoes:Azarbe" "geoes:Mar" "geoes:Canal" "geoes:Arroyo" "-1d50d6fb:180664a6fdd:-7db5" "geoes:Rio" "-1d50d6fb:180664a6fdd:-7d37" "geoes:Estanque" "geoes:Recinto" "geoes:FuenteNatural" "geoes:Saladar" "geoes:ZonaEconomicaExclusiva" "geoes:FuenteSalada" "-1d50d6fb:180664a6fdd:-7df8" "geoes:FenomenoHidrografico" "-1d50d6fb:180664a6fdd:-7d41" "geoes:Barranquillo" "geoes:LagoSubterraneo" "geoes:CanalAguasContinentales" "geoes:Aluvion" "geoes:Acequia" "geoes:AltaMar" "geoes:Terma" "geoes:Pozo" "geoes:Canyada" "geoes:AguasCorrientes" "geoes:Garganta" "geoes:ManantialSalado" "geoes:Delta" "geoes:Humedal" "geoes:Charca" "geoes:Marjal" "geoes:Cienaga" "geoes:LagoSalado" "geoes:Tuberia" "-1d50d6fb:180664a6fdd:-7dd9" "geoes:Poza" "geoes:IslaFluvial" "geoes:Lago" "geoes:AguasSubterraneas" "geoes:Dren" "geoes:Captacion" "geoes:Chorrera" "-1d50d6fb:180664a6fdd:-7d68" "geoes:Ibon" "geoes:Nacimiento" "geoes:AguasCosteras" "geoes:Albufera" "geoes:HidronimoPuntual" "geoes:LagunaArtificial" "geoes:Colector" "geoes:Reguero" "-1d50d6fb:180664a6fdd:-7dde" "geoes:Sifon" "geoes:Oceano" "geoes:CanalDeLago" "geoes:AguasQuietas" "geoes:ZonaHumeda" "geoes:AguasMarinas" "geoes:ZonaEncharcable" "geoes:PlayaFluvial" "-1d50d6fb:180664a6fdd:-7c6c" "-1d50d6fb:180664a6fdd:-7d86" "geoes:Rivera" "-1d50d6fb:180664a6fdd:-7d3c" "-1d50d6fb:180664a6fdd:-7d32" "geoes:Basines" "geoes:Ribera" "-1d50d6fb:180664a6fdd:-7d49" "geoes:Embalse" "geoes:Marisma" "geoes:Ojo" "geoes:AguasSuperficiales" "geoes:Acuitardo" "geoes:Toma" "geoes:Manantial" "geoes:Piscina" "-1d50d6fb:180664a6fdd:-7d9f" "geoes:Desembocadura" "geoes:Cascada" "geoes:Regajo" "geoes:Rapido" "geoes:CapaDeNieve" "-1d50d6fb:180664a6fdd:-7cda" "geoes:Corriente" "geoes:EstanqueSalado" "geoes:Tremedal" "geoes:Deposito" "geoes:AguasCorrientesArtificiales" "geoes:Canalillo" "geoes:SurgenciaNatural" "geoes:SurgenciaArtificial" "geoes:Galacho" "-1d50d6fb:180664a6fdd:-7e16" "geoes:Bodon" "geoes:MarTerritorial" "geoes:Confluencia" "geoes:CanalAguasMarinas" "geoes:Riacho" "geoes:Madre" "geoes:Distribucion" "geoes:Playa" "geoes:BalsaDeHielo" "geoes:BancoDeNieve" "geoes:Conducto" "geoes:CapaDeHielo" "-1d50d6fb:180664a6fdd:-7d8d" "geoes:AguasCorrientesNaturales" "geoes:Paul" "geoes:Chortal" "geoes:Desague" "geoes:CorrienteSubterranea" "geoes:Sumidero" "geoes:Balsa" "geoes:Vertiente" "geoes:Abrevadero" "geoes:Aljibe" "geoes:AguasQuietasNaturales" "geoes:Fuente" "geoes:Meandro" "geoes:AguasDeTransicion" "geoes:Barranco" "geoes:MasaDeHielo" "geoes:Drenaje" "geoes:Vado" "geoes:Alberca" "geoes:Salina" "geoes:AguasSaladas" "geoes:Surgencia" "geoes:Gotera" "geoes:Ria" "-1d50d6fb:180664a6fdd:-7cb5" "geoes:Aguazal" "geoes:AguasContinentales" "geoes:FuenteVauclusiana" "-1d50d6fb:180664a6fdd:-7df1" "geoes:Lucio" "geoes:Laguna" "geoes:Aguas" "geoes:Efluente" "geoes:Ramal" "geoes:LagunaSalada" "geoes:AguasQuietasArtificiales" "-1d50d6fb:180664a6fdd:-7e23" "geoes:Geiser" "geoes:FuenteArtesana" "geoes:Venaje" "geoes:Shuga" "geoes:Reguera" "geoes:Regato" "geoes:Brazo" "geoes:Nava" "geoes:Rambla" "-1d50d6fb:180664a6fdd:-7d99" "foaf:Organization" "time:DurationDescription" "wgs84_pos:SpatialThing" "scovo:Dimension" "http://geo.linkeddata.es/ontology/Organizaci%C3%B3n" "http://geo.linkeddata.es/ontology/A%C3%B1o" "geopolitical:area" "time:GeneralDateTimeDescription" "time:DateTimeInterval" "time:TemporalDuration" "time:Duration" "time:GeneralDurationDescription" "time:January" "time:ProperInterval" "b6503e2eb43365e33f39a9c6e4fd2a99" "time:TimePosition" "time:TemporalPosition" "time:Interval" "time:TemporalEntity" "time:Year" "time:MonthOfYear" "time:DateTimeDescription" "time:TemporalUnit" "time:Instant" "time:DayOfWeek" ; /*classes style*/
 	"time:Year" -> "time:DurationDescription" [ label = "rdfs:subClassOf" ];
 	"geoes:Municipio" -> "geopolitical:territory" [ label = "rdfs:subClassOf" ];
 	"geoes:AguasContinentales" -> "geoes:Aguas" [ label = "rdfs:subClassOf" ];
@@ -11,7 +11,7 @@ node [shape = rectangle, color="black"]; "geoes:Provincia" "geoes:Municipio" "ge
 	"geoes:AguasCorrientes" -> "geoes:AguasSuperficiales" [ label = "rdfs:subClassOf" ];
 	"geoes:Rapido" -> "geoes:Corriente" [ label = "rdfs:subClassOf" ];
 	"geoes:Reguero" -> "geoes:Arroyo" [ label = "rdfs:subClassOf" ];
-	"geoes:EstanqueSalado" -> "3358354e:180663165b3:-7d49" [ label = "rdfs:subClassOf" ];
+	"geoes:EstanqueSalado" -> "-1d50d6fb:180664a6fdd:-7d49" [ label = "rdfs:subClassOf" ];
 	"geoes:Vado" -> "geoes:Morfologia" [ label = "rdfs:subClassOf" ];
 	"geoes:Rambla" -> "geoes:Rio" [ label = "rdfs:subClassOf" ];
 	"geoes:Capital" -> "geopolitical:territory" [ label = "rdfs:subClassOf" ];
@@ -21,7 +21,7 @@ node [shape = rectangle, color="black"]; "geoes:Provincia" "geoes:Municipio" "ge
 	"geoes:Lucio" -> "geoes:Charca" [ label = "rdfs:subClassOf" ];
 	"geoes:Galacho" -> "geoes:Barranco" [ label = "rdfs:subClassOf" ];
 	"geoes:Lavajo" -> "geoes:Charca" [ label = "rdfs:subClassOf" ];
-	"geoes:Delta" -> "3358354e:180663165b3:-7d78" [ label = "rdfs:subClassOf" ];
+	"geoes:Delta" -> "-1d50d6fb:180664a6fdd:-7d78" [ label = "rdfs:subClassOf" ];
 	"geoes:Delta" -> "geoes:Morfologia" [ label = "rdfs:subClassOf" ];
 	"geoes:ZonaContigua" -> "geoes:AguasMarinas" [ label = "rdfs:subClassOf" ];
 	"geoes:AltaMar" -> "geoes:AguasMarinas" [ label = "rdfs:subClassOf" ];
@@ -30,20 +30,20 @@ node [shape = rectangle, color="black"]; "geoes:Provincia" "geoes:Municipio" "ge
 	"time:DayOfWeek" -> "owl:Thing" [ label = "rdfs:subClassOf" ];
 	"time:Interval" -> "time:TemporalEntity" [ label = "rdfs:subClassOf" ];
 	"geoes:Aguas" -> "geoes:FenomenoHidrografico" [ label = "rdfs:subClassOf" ];
-	"geoes:FuenteSalada" -> "3358354e:180663165b3:-7d32" [ label = "rdfs:subClassOf" ];
+	"geoes:FuenteSalada" -> "-1d50d6fb:180664a6fdd:-7d32" [ label = "rdfs:subClassOf" ];
 	"geoes:ZonaEncharcable" -> "geoes:Morfologia" [ label = "rdfs:subClassOf" ];
 	"geoes:Ramal" -> "geoes:Acequia" [ label = "rdfs:subClassOf" ];
 	"geoes:Riacho" -> "geoes:Arroyo" [ label = "rdfs:subClassOf" ];
-	"geoes:Albufera" -> "3358354e:180663165b3:-7df8" [ label = "rdfs:subClassOf" ];
+	"geoes:Albufera" -> "-1d50d6fb:180664a6fdd:-7df8" [ label = "rdfs:subClassOf" ];
 	"geoes:Albufera" -> "geoes:Laguna" [ label = "rdfs:subClassOf" ];
 	"geoes:Albufera" -> "geoes:AguasSaladas" [ label = "rdfs:subClassOf" ];
 	"geoes:Gotera" -> "geoes:Cienaga" [ label = "rdfs:subClassOf" ];
 	"geoes:Pozo" -> "geoes:SurgenciaArtificial" [ label = "rdfs:subClassOf" ];
 	"geoes:Canalillo" -> "geoes:CanalAguasContinentales" [ label = "rdfs:subClassOf" ];
 	"geoes:Madre" -> "geoes:Acequia" [ label = "rdfs:subClassOf" ];
-	"geoes:Desembocadura" -> "3358354e:180663165b3:-7d68" [ label = "rdfs:subClassOf" ];
+	"geoes:Desembocadura" -> "-1d50d6fb:180664a6fdd:-7d68" [ label = "rdfs:subClassOf" ];
 	"geoes:Desembocadura" -> "geoes:HidronimoPuntual" [ label = "rdfs:subClassOf" ];
-	"geoes:Salina" -> "3358354e:180663165b3:-7c6c" [ label = "rdfs:subClassOf" ];
+	"geoes:Salina" -> "-1d50d6fb:180664a6fdd:-7c6c" [ label = "rdfs:subClassOf" ];
 	"geoes:Salina" -> "geoes:Recinto" [ label = "rdfs:subClassOf" ];
 	"geoes:Fuente" -> "geoes:Recinto" [ label = "rdfs:subClassOf" ];
 	"time:DateTimeInterval" -> "time:ProperInterval" [ label = "rdfs:subClassOf" ];
@@ -62,16 +62,16 @@ node [shape = rectangle, color="black"]; "geoes:Provincia" "geoes:Municipio" "ge
 	"time:ProperInterval" -> "time:Interval" [ label = "rdfs:subClassOf" ];
 	"geoes:AguasQuietas" -> "geoes:AguasSuperficiales" [ label = "rdfs:subClassOf" ];
 	"geoes:Meandro" -> "geoes:Morfologia" [ label = "rdfs:subClassOf" ];
-	"geoes:LagunaSalada" -> "3358354e:180663165b3:-7cfa" [ label = "rdfs:subClassOf" ];
+	"geoes:LagunaSalada" -> "-1d50d6fb:180664a6fdd:-7cfa" [ label = "rdfs:subClassOf" ];
 	"geoes:LagunaSalada" -> "geoes:Laguna" [ label = "rdfs:subClassOf" ];
 	"geoes:LagunaSalada" -> "geoes:AguasSaladas" [ label = "rdfs:subClassOf" ];
 	"geoes:Caz" -> "geoes:Acequia" [ label = "rdfs:subClassOf" ];
-	"geoes:Charca" -> "3358354e:180663165b3:-7d99" [ label = "rdfs:subClassOf" ];
+	"geoes:Charca" -> "-1d50d6fb:180664a6fdd:-7d99" [ label = "rdfs:subClassOf" ];
 	"geoes:Charca" -> "geoes:AguasQuietasNaturales" [ label = "rdfs:subClassOf" ];
-	"geoes:AguasQuietasNaturales" -> "3358354e:180663165b3:-7e16" [ label = "rdfs:subClassOf" ];
+	"geoes:AguasQuietasNaturales" -> "-1d50d6fb:180664a6fdd:-7e16" [ label = "rdfs:subClassOf" ];
 	"geoes:AguasQuietasNaturales" -> "geoes:AguasQuietas" [ label = "rdfs:subClassOf" ];
 	"geoes:IslaFluvial" -> "geoes:Morfologia" [ label = "rdfs:subClassOf" ];
-	"geoes:Aljibe" -> "3358354e:180663165b3:-7df1" [ label = "rdfs:subClassOf" ];
+	"geoes:Aljibe" -> "-1d50d6fb:180664a6fdd:-7df1" [ label = "rdfs:subClassOf" ];
 	"geoes:Aljibe" -> "geoes:Deposito" [ label = "rdfs:subClassOf" ];
 	"geoes:BalsaDeHielo" -> "geoes:MasaDeHielo" [ label = "rdfs:subClassOf" ];
 	"geoes:MasaDeHielo" -> "geoes:AguasQuietasNaturales" [ label = "rdfs:subClassOf" ];
@@ -79,7 +79,7 @@ node [shape = rectangle, color="black"]; "geoes:Provincia" "geoes:Municipio" "ge
 	"geoes:FuenteVauclusiana" -> "geoes:FuenteNatural" [ label = "rdfs:subClassOf" ];
 	"geoes:Tremedal" -> "geoes:Cienaga" [ label = "rdfs:subClassOf" ];
 	"http://geo.linkeddata.es/ontology/A%C3%B1o" -> "time:DurationDescription" [ label = "rdfs:subClassOf" ];
-	"geoes:Confluencia" -> "3358354e:180663165b3:-7d86" [ label = "rdfs:subClassOf" ];
+	"geoes:Confluencia" -> "-1d50d6fb:180664a6fdd:-7d86" [ label = "rdfs:subClassOf" ];
 	"geoes:Confluencia" -> "geoes:HidronimoPuntual" [ label = "rdfs:subClassOf" ];
 	"geoes:CapaDeHielo" -> "geoes:Nevero" [ label = "rdfs:subClassOf" ];
 	"geoes:SurgenciaNatural" -> "geoes:Surgencia" [ label = "rdfs:subClassOf" ];
@@ -87,7 +87,7 @@ node [shape = rectangle, color="black"]; "geoes:Provincia" "geoes:Municipio" "ge
 	"geoes:Guadi" -> "geoes:Rio" [ label = "rdfs:subClassOf" ];
 	"geoes:Sifon" -> "geoes:Tuberia" [ label = "rdfs:subClassOf" ];
 	"geoes:Torrente" -> "geoes:AguasCorrientesNaturales" [ label = "rdfs:subClassOf" ];
-	"geoes:CanalDeLago" -> "3358354e:180663165b3:-7db5" [ label = "rdfs:subClassOf" ];
+	"geoes:CanalDeLago" -> "-1d50d6fb:180664a6fdd:-7db5" [ label = "rdfs:subClassOf" ];
 	"geoes:CanalDeLago" -> "geoes:CanalAguasContinentales" [ label = "rdfs:subClassOf" ];
 	"geoes:Acuitardo" -> "geoes:AguasSubterraneas" [ label = "rdfs:subClassOf" ];
 	"time:GeneralDurationDescription" -> "time:TemporalDuration" [ label = "rdfs:subClassOf" ];
@@ -95,9 +95,9 @@ node [shape = rectangle, color="black"]; "geoes:Provincia" "geoes:Municipio" "ge
 	"geoes:Aeropuerto" -> "owl:Thing" [ label = "rdfs:subClassOf" ];
 	"geoes:Mar" -> "geoes:AguasMarinas" [ label = "rdfs:subClassOf" ];
 	"geoes:Canyada" -> "geoes:Arroyo" [ label = "rdfs:subClassOf" ];
+	"geoes:Arroyo" -> "-1d50d6fb:180664a6fdd:-7dd9" [ label = "rdfs:subClassOf" ];
 	"geoes:Arroyo" -> "geoes:AguasCorrientesNaturales" [ label = "rdfs:subClassOf" ];
-	"geoes:Arroyo" -> "3358354e:180663165b3:-7dde" [ label = "rdfs:subClassOf" ];
-	"geoes:Arroyo" -> "3358354e:180663165b3:-7dd9" [ label = "rdfs:subClassOf" ];
+	"geoes:Arroyo" -> "-1d50d6fb:180664a6fdd:-7dde" [ label = "rdfs:subClassOf" ];
 	"geoes:Regajo" -> "geoes:Arroyo" [ label = "rdfs:subClassOf" ];
 	"geopolitical:area" -> "scovo:Dimension" [ label = "rdfs:subClassOf" ];
 	"geoes:Bodon" -> "geoes:Charca" [ label = "rdfs:subClassOf" ];
@@ -112,7 +112,7 @@ node [shape = rectangle, color="black"]; "geoes:Provincia" "geoes:Municipio" "ge
 	"time:DurationDescription" -> "time:GeneralDurationDescription" [ label = "rdfs:subClassOf" ];
 	"time:DurationDescription" -> "scovo:Dimension" [ label = "rdfs:subClassOf" ];
 	"geoes:Deposito" -> "geoes:AguasQuietasArtificiales" [ label = "rdfs:subClassOf" ];
-	"geoes:Captacion" -> "3358354e:180663165b3:-7d9f" [ label = "rdfs:subClassOf" ];
+	"geoes:Captacion" -> "-1d50d6fb:180664a6fdd:-7d9f" [ label = "rdfs:subClassOf" ];
 	"geoes:Captacion" -> "geoes:HidronimoPuntual" [ label = "rdfs:subClassOf" ];
 	"geoes:Tuberia" -> "geoes:Conducto" [ label = "rdfs:subClassOf" ];
 	"time:January" -> "time:DateTimeDescription" [ label = "rdfs:subClassOf" ];
@@ -122,7 +122,7 @@ node [shape = rectangle, color="black"]; "geoes:Provincia" "geoes:Municipio" "ge
 	"geoes:Ribera" -> "geoes:Morfologia" [ label = "rdfs:subClassOf" ];
 	"geoes:Drenaje" -> "geoes:Conducto" [ label = "rdfs:subClassOf" ];
 	"geoes:Corriente" -> "geoes:AguasCorrientes" [ label = "rdfs:subClassOf" ];
-	"geoes:FuenteArtesana" -> "3358354e:180663165b3:-7d3c" [ label = "rdfs:subClassOf" ];
+	"geoes:FuenteArtesana" -> "-1d50d6fb:180664a6fdd:-7d3c" [ label = "rdfs:subClassOf" ];
 	"geoes:FuenteArtesana" -> "geoes:FuenteNatural" [ label = "rdfs:subClassOf" ];
 	"geoes:Oceano" -> "geoes:Mar" [ label = "rdfs:subClassOf" ];
 	"geoes:Barranquillo" -> "geoes:Barranco" [ label = "rdfs:subClassOf" ];
@@ -133,14 +133,14 @@ node [shape = rectangle, color="black"]; "geoes:Provincia" "geoes:Municipio" "ge
 	"geoes:Dren" -> "geoes:Conducto" [ label = "rdfs:subClassOf" ];
 	"geoes:CapaDeNieve" -> "geoes:Nevero" [ label = "rdfs:subClassOf" ];
 	"geoes:LlanuraDeInundacion" -> "geoes:ZonaEncharcable" [ label = "rdfs:subClassOf" ];
-	"geoes:Ojo" -> "3358354e:180663165b3:-7cb5" [ label = "rdfs:subClassOf" ];
+	"geoes:Ojo" -> "-1d50d6fb:180664a6fdd:-7cb5" [ label = "rdfs:subClassOf" ];
 	"geoes:Ojo" -> "geoes:Manantial" [ label = "rdfs:subClassOf" ];
 	"geoes:Terma" -> "geoes:Manantial" [ label = "rdfs:subClassOf" ];
 	"geoes:Vertiente" -> "geoes:Morfologia" [ label = "rdfs:subClassOf" ];
 	"geoes:Barranco" -> "geoes:Morfologia" [ label = "rdfs:subClassOf" ];
-	"geoes:AguasMarinas" -> "3358354e:180663165b3:-7e23" [ label = "rdfs:subClassOf" ];
 	"geoes:AguasMarinas" -> "geoes:AguasSaladas" [ label = "rdfs:subClassOf" ];
-	"geoes:Estero" -> "3358354e:180663165b3:-7d41" [ label = "rdfs:subClassOf" ];
+	"geoes:AguasMarinas" -> "-1d50d6fb:180664a6fdd:-7e23" [ label = "rdfs:subClassOf" ];
+	"geoes:Estero" -> "-1d50d6fb:180664a6fdd:-7d41" [ label = "rdfs:subClassOf" ];
 	"geoes:Estero" -> "geoes:ZonaHumeda" [ label = "rdfs:subClassOf" ];
 	"geoes:Brazo" -> "geoes:CanalAguasMarinas" [ label = "rdfs:subClassOf" ];
 	"geoes:Pais" -> "geopolitical:territory" [ label = "rdfs:subClassOf" ];
@@ -165,11 +165,11 @@ node [shape = rectangle, color="black"]; "geoes:Provincia" "geoes:Municipio" "ge
 	"geoes:ComunidadAutonoma" -> "geopolitical:territory" [ label = "rdfs:subClassOf" ];
 	"geoes:Aluvion" -> "geoes:Morfologia" [ label = "rdfs:subClassOf" ];
 	"geoes:Desague" -> "geoes:Tuberia" [ label = "rdfs:subClassOf" ];
-	"geoes:ManantialSalado" -> "3358354e:180663165b3:-7cda" [ label = "rdfs:subClassOf" ];
+	"geoes:ManantialSalado" -> "-1d50d6fb:180664a6fdd:-7cda" [ label = "rdfs:subClassOf" ];
 	"geoes:Surgencia" -> "geoes:AguasSuperficiales" [ label = "rdfs:subClassOf" ];
 	"geoes:CorrienteSubterranea" -> "geoes:AguasSubterraneas" [ label = "rdfs:subClassOf" ];
 	"geoes:Acequia" -> "geoes:AguasCorrientesArtificiales" [ label = "rdfs:subClassOf" ];
-	"geoes:Chortal" -> "3358354e:180663165b3:-7d8d" [ label = "rdfs:subClassOf" ];
+	"geoes:Chortal" -> "-1d50d6fb:180664a6fdd:-7d8d" [ label = "rdfs:subClassOf" ];
 	"geoes:Chortal" -> "geoes:Charca" [ label = "rdfs:subClassOf" ];
 	"geoes:Cienaga" -> "geoes:ZonaHumeda" [ label = "rdfs:subClassOf" ];
 	"geoes:Embalse" -> "geoes:Deposito" [ label = "rdfs:subClassOf" ];
@@ -181,13 +181,13 @@ node [shape = rectangle, color="black"]; "geoes:Provincia" "geoes:Municipio" "ge
 	"geoes:Recinto" -> "geoes:AguasQuietasArtificiales" [ label = "rdfs:subClassOf" ];
 	"geoes:HidronimoPuntual" -> "geoes:FenomenoHidrografico" [ label = "rdfs:subClassOf" ];
 	"geoes:LagunaArtificial" -> "geoes:Recinto" [ label = "rdfs:subClassOf" ];
-	"time:TimePosition" -> "889841c1d902fff65bcaa3948f500427" [ label = "rdfs:subClassOf" ];
+	"time:TimePosition" -> "b6503e2eb43365e33f39a9c6e4fd2a99" [ label = "rdfs:subClassOf" ];
 	"time:TimePosition" -> "time:TemporalPosition" [ label = "rdfs:subClassOf" ];
 	"geoes:Colector" -> "geoes:Conducto" [ label = "rdfs:subClassOf" ];
-	"geoes:Rio" -> "3358354e:180663165b3:-7c7b" [ label = "rdfs:subClassOf" ];
+	"geoes:Rio" -> "-1d50d6fb:180664a6fdd:-7c7b" [ label = "rdfs:subClassOf" ];
 	"geoes:Rio" -> "geoes:AguasCorrientesNaturales" [ label = "rdfs:subClassOf" ];
 	"geoes:Saladar" -> "geoes:Salina" [ label = "rdfs:subClassOf" ];
-	"geoes:LagoSalado" -> "3358354e:180663165b3:-7d01" [ label = "rdfs:subClassOf" ];
+	"geoes:LagoSalado" -> "-1d50d6fb:180664a6fdd:-7d01" [ label = "rdfs:subClassOf" ];
 	"geoes:Lago" -> "geoes:AguasQuietasNaturales" [ label = "rdfs:subClassOf" ];
 	"geoes:Sumidero" -> "geoes:Morfologia" [ label = "rdfs:subClassOf" ];
 	"geoes:Humedal" -> "geoes:SurgenciaNatural" [ label = "rdfs:subClassOf" ];
@@ -195,7 +195,7 @@ node [shape = rectangle, color="black"]; "geoes:Provincia" "geoes:Municipio" "ge
 	"geoes:Cascada" -> "geoes:Corriente" [ label = "rdfs:subClassOf" ];
 	"geoes:AguasSubterraneas" -> "geoes:AguasContinentales" [ label = "rdfs:subClassOf" ];
 	"geoes:Toma" -> "geoes:SurgenciaArtificial" [ label = "rdfs:subClassOf" ];
-	"geoes:FuenteArtificial" -> "3358354e:180663165b3:-7d37" [ label = "rdfs:subClassOf" ];
+	"geoes:FuenteArtificial" -> "-1d50d6fb:180664a6fdd:-7d37" [ label = "rdfs:subClassOf" ];
 	"geoes:FuenteArtificial" -> "geoes:SurgenciaArtificial" [ label = "rdfs:subClassOf" ];
 
 }
